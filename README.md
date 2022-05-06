@@ -33,15 +33,3 @@ Using cheats is against the agreement and rules. And will definitely be punished
 
 
 _____________________________________________________________________________________________________________________________________________________________
-
-* Use via Windows console:                                              
-
-    1. Save the file to a location convenient for you.
-
-    2. Copy the path to this file.
-
-    3. Open windows console as administrator
-
-    4. enter cd the path to the file
-
-    5. After that write python3 bhop_python.py
